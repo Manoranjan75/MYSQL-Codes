@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./MYSQL_img.png" alt="MYSQL" width="600px"/>
+</p>
+
+
 # MySQL Problems and Solutions
 
 This repository contains MySQL problems and their solutions organized by difficulty level. Each problem includes detailed explanations and optimized queries.
