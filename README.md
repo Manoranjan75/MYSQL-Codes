@@ -5,9 +5,9 @@ This repository contains MySQL problems and their solutions organized by difficu
 
 | Category | Problems |
 |----------|----------|
-| EASY     | [1](./MYSQL-Codes/s1.md), [2](./MYSQL-Codes/s2.md), [3](./MYSQL-Codes/s3.md), [4](./MYSQL-Codes/s4.md), [5](./MYSQL-Codes/s5.md), [6](./MYSQL-Codes/s6.md), [7](./MYSQL-Codes/s7.md), [8](./MYSQL-Codes/s8.md), [9](./MYSQL-Codes/s9.md), [10](./MYSQL-Codes/s10.md), [11](./MYSQL-Codes/s11.md), [12](./MYSQL-Codes/s12.md), [13](./MYSQL-Codes/s13.md), [14](./MYSQL-Codes/s14.md) |
-| MEDIUM   | [15](./MYSQL-Codes/s15.md), [16](./MYSQL-Codes/s16.md), [17](./MYSQL-Codes/s17.md), [18](./MYSQL-Codes/s18.md), [19](./MYSQL-Codes/s19.md), [20](./MYSQL-Codes/s20.md), [21](./MYSQL-Codes/s21.md), [22](./MYSQL-Codes/s22.md), [23](./MYSQL-Codes/s23.md), [24](./MYSQL-Codes/s24.md), [25](./MYSQL-Codes/s25.md), [26](./MYSQL-Codes/s26.md), [27](./MYSQL-Codes/s27.md) |
-| HARD     | [28](./MYSQL-Codes/s28.md), [29](./MYSQL-Codes/s29.md), [30](./MYSQL-Codes/s30.md) |
+| EASY     | [1](./MYSQL-Codes/s1.md)  [2](./MYSQL-Codes/s2.md)  [3](./MYSQL-Codes/s3.md)  [4](./MYSQL-Codes/s4.md)  [5](./MYSQL-Codes/s5.md)  [6](./MYSQL-Codes/s6.md)  [7](./MYSQL-Codes/s7.md)  [8](./MYSQL-Codes/s8.md)  [9](./MYSQL-Codes/s9.md)  [10](./MYSQL-Codes/s10.md)  [11](./MYSQL-Codes/s11.md)  [12](./MYSQL-Codes/s12.md)  [13](./MYSQL-Codes/s13.md)  [14](./MYSQL-Codes/s14.md) |
+| MEDIUM   | [15](./MYSQL-Codes/s15.md)  [16](./MYSQL-Codes/s16.md)  [17](./MYSQL-Codes/s17.md)  [18](./MYSQL-Codes/s18.md)  [19](./MYSQL-Codes/s19.md)  [20](./MYSQL-Codes/s20.md)  [21](./MYSQL-Codes/s21.md)  [22](./MYSQL-Codes/s22.md)  [23](./MYSQL-Codes/s23.md)  [24](./MYSQL-Codes/s24.md)  [25](./MYSQL-Codes/s25.md)  [26](./MYSQL-Codes/s26.md)  [27](./MYSQL-Codes/s27.md) |
+| HARD     | [28](./MYSQL-Codes/s28.md)  [29](./MYSQL-Codes/s29.md)  [30](./MYSQL-Codes/s30.md) |
 
 
 
